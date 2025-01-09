@@ -1,2 +1,1 @@
-
-<a href="https://manishmksaini.github.io/spotify-clone/" target="new" >Preview</a>
+https://shivanilotia.github.io/spotify-clone-music-player/
